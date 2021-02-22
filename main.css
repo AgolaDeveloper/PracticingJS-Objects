@@ -1,0 +1,10 @@
+body{
+    background-color: ivory;
+    
+}
+
+div{
+    /*background-color: khaki;*/
+    max-width: 50%;
+    margin: auto;
+}
